@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Journey to Fantasy Springs",
+  "base_artist": "Tokyo DisneySea",
+  "createdAt": "2026-03-24T13:51:14.085359Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Journey to Fantasy Springs",
+      "artist": "Tokyo DisneySea",
+      "has_synced": true,
+      "path": "select/01_Journey_to_Fantasy_Springs_Tokyo_DisneySea.lrc"
+    }
+  ]
+}
